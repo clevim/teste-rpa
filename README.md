@@ -6,6 +6,8 @@ Este repositório contém um teste técnico para candidatos à vaga de **Analist
 
 Contudo, a automação **contém falhas propositais**. Seu desafio é identificar e corrigir esses problemas para que o script funcione corretamente.
 <br>
+<br>
+
 
 ## 🎯 Objetivo
 - Avaliar sua habilidade em depurar e corrigir automações com Puppeteer.
