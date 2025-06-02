@@ -6,13 +6,11 @@ Este repositório contém um teste técnico para candidatos à vaga de **Analist
 
 Contudo, a automação **contém falhas propositais**. Seu desafio é identificar e corrigir esses problemas para que o script funcione corretamente.
 <br>
-<br>
 
 ## 🎯 Objetivo
 - Avaliar sua habilidade em depurar e corrigir automações com Puppeteer.
 - Testar sua familiaridade com JavaScript/Node.js e boas práticas de desenvolvimento.
 - Observar clareza, lógica e organização da sua solução.
-<br>
 <br>
 
 ## 🧩 O que a automação deve fazer
@@ -33,13 +31,11 @@ Apresentação do site:
 Veja abaixo o comportamento esperado da automação funcionando corretamente:
 ![Demonstração da automação](public/gif_test.gif)
 <br>
-<br>
 
 ## ⚙️ Tecnologias utilizadas
 
 - Node.js
 - Puppeteer
-<br>
 <br>
 
 ## 🚀 Instruções para execução
@@ -64,13 +60,11 @@ Veja abaixo o comportamento esperado da automação funcionando corretamente:
    npm start
    ```
 <br>
-<br>
 
 ## ✅ O que você deve fazer
 - Corrigir os problemas existentes no código.
 - Garantir que a automação funcione conforme o esperado.
 - Manter o código limpo e compreensível.
-<br>
 <br>
 
 ## 📦 Entrega
