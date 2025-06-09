@@ -1,8 +1,8 @@
-# 🧪 Teste Técnico – Analista RPA
+# 🧪 Teste Técnico – Assistente RPA
 
 Bem-vindo(a)!
 
-Este repositório contém um teste técnico para candidatos à vaga de **Analista RPA**. Ele consiste em uma automação simples construída com **Node.js** e **Puppeteer**, que acessa um site, raspa informações específicas e exibe os resultados no terminal.
+Este repositório contém um teste técnico para candidatos à vaga de **Assistente RPA**. Ele consiste em uma automação simples construída com **Node.js** e **Puppeteer**, que acessa um site, raspa informações específicas e exibe os resultados no terminal.
 
 Contudo, a automação **contém falhas propositais**. Seu desafio é identificar e corrigir esses problemas para que o script funcione corretamente.
 <br>
