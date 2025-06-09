@@ -1,3 +1,15 @@
+## 🛠️ Modificações Realizadas
+
+Abaixo estão as alterações feitas no código original para que a automação funcionasse corretamente:
+
+- Corrigido o seletor utilizado para capturar o CNPJ, que estava incorreto ou desatualizado em relação à estrutura atual da página.  
+- Adição pontual do método `waitForSelector` do Puppeteer para aguardar de forma confiável a presença dos elementos na página.
+- Ajustado o seletor do botão de consulta, que estava incorreto ou desatualizado em relação à estrutura atual da página.
+- Na função `getData`, foi corrigido o seletor do CNPJ para refletir a estrutura atual da página.  
+      Além disso, foram incluídas as raspagens das informações de **Situação no Simples Nacional** e **Situação no SIMEI**, preenchendo corretamente as variáveis `situacaoSN` e `situacaoSimei`.
+- Adicionado `puppeteer.executablePath()` na inicialização do Puppeteer para tornar a definição do caminho do Chrome mais flexível
+- Adicionado ao código blocos de `try/catch` para capturar e tratar exceções de forma segura.
+
 # 🧪 Teste Técnico – Assistente RPA
 
 Bem-vindo(a)!
